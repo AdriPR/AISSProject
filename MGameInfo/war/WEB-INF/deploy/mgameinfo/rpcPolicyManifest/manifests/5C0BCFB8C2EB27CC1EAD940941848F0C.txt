@@ -1,0 +1,2 @@
+serviceClass: mGameInfo.client.services.TwitterService
+path: 18A2DB11E68CF995ED1F50E45C8EFA57.gwt.rpc

@@ -1,0 +1,6 @@
+# Module mgameinfo
+# RPC service class, partial path of RPC policy file
+mGameInfo.client.services.DeviantArtService, 31C59C255154ED4E29CE748F922CC3BA.gwt.rpc
+mGameInfo.client.services.TwitterService, 18A2DB11E68CF995ED1F50E45C8EFA57.gwt.rpc
+mGameInfo.client.services.GiantBombService, 2C1CD2B1A5275B763E655A91593FE6B7.gwt.rpc
+mGameInfo.client.services.YoutubeService, 680914CD37FBAB0A401C8F8C9C750A58.gwt.rpc

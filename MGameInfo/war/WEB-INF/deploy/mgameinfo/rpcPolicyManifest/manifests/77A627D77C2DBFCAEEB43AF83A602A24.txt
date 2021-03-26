@@ -1,0 +1,2 @@
+serviceClass: mGameInfo.client.services.GiantBombService
+path: 2C1CD2B1A5275B763E655A91593FE6B7.gwt.rpc

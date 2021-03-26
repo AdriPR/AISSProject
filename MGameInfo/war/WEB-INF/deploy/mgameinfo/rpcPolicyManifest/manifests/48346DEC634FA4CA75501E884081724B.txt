@@ -1,0 +1,2 @@
+serviceClass: mGameInfo.client.services.DeviantArtService
+path: 31C59C255154ED4E29CE748F922CC3BA.gwt.rpc

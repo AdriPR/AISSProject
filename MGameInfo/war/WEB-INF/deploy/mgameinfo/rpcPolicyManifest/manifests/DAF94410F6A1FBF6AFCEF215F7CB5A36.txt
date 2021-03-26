@@ -1,0 +1,2 @@
+serviceClass: mGameInfo.client.services.YoutubeService
+path: 680914CD37FBAB0A401C8F8C9C750A58.gwt.rpc
